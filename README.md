@@ -1,0 +1,1 @@
+Set  `flyctl secrets set TAILSCALE_AUTHKEY="tskey-<key>"` before deployment.
